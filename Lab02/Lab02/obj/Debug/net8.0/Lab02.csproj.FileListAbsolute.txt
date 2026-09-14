@@ -1,0 +1,14 @@
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\bin\Debug\net8.0\Lab02.exe
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\bin\Debug\net8.0\Lab02.deps.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\bin\Debug\net8.0\Lab02.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\bin\Debug\net8.0\Lab02.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab02\Lab02\obj\Debug\net8.0\ref\Lab02.dll
