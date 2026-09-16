@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "noRK+dg72zI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tin\\OneDrive - Hochiminh City University of Education\\LAPTRINHWIN\\baitrenlop1\\baitrenlop1\\BTLOP16092026.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

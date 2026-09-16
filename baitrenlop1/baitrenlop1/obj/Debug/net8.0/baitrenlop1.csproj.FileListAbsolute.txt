@@ -1,0 +1,14 @@
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\bin\Debug\net8.0\baitrenlop1.exe
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\bin\Debug\net8.0\baitrenlop1.deps.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\bin\Debug\net8.0\baitrenlop1.runtimeconfig.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\bin\Debug\net8.0\baitrenlop1.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\bin\Debug\net8.0\baitrenlop1.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.AssemblyInfoInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.AssemblyInfo.cs
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.csproj.CoreCompileInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\refint\baitrenlop1.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\baitrenlop1.genruntimeconfig.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\baitrenlop1\baitrenlop1\obj\Debug\net8.0\ref\baitrenlop1.dll
