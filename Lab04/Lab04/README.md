@@ -1,4 +1,4 @@
-﻿##  Hình ảnh Demo Chức năng
+﻿##  Hình ảnh Demo Chức năng Lab04
 
 ### 1. Thêm sản phẩm mới
 Khi người dùng chọn chức năng `1`, chương trình yêu cầu nhập lần lượt các thông tin: Mã sản phẩm, Tên sản phẩm, Đơn giá và Số lượng. Sau khi nhập hợp lệ, một sự kiện (Event) sẽ được kích hoạt để thông báo việc thêm thành công.
