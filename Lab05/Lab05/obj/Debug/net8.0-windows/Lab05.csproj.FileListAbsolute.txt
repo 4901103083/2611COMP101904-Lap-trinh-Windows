@@ -1,0 +1,16 @@
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\bin\Debug\net8.0-windows\Lab05.exe
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\bin\Debug\net8.0-windows\Lab05.deps.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\bin\Debug\net8.0-windows\Lab05.runtimeconfig.json
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\bin\Debug\net8.0-windows\Lab05.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\bin\Debug\net8.0-windows\Lab05.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.Form1.resources
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.csproj.GenerateResource.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.AssemblyInfoInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.AssemblyInfo.cs
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.csproj.CoreCompileInputs.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\refint\Lab05.dll
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.pdb
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\Lab05.genruntimeconfig.cache
+C:\Users\Tin\OneDrive - Hochiminh City University of Education\LAPTRINHWIN\Lab05\Lab05\obj\Debug\net8.0-windows\ref\Lab05.dll
