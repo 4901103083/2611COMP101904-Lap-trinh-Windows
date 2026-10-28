@@ -76,3 +76,37 @@
 ![Thêm khách hàng thành công](10.jpg)
 * **Trạng thái thực thi:** Minh họa kết quả sau khi điền thông tin khách hàng mới và nhấn nút **Thêm** tại phân hệ Quản lý khách hàng.
 * **Cập nhật & Thông báo:** Bản ghi mới (`KH03 - Đào Văn C`, SĐT `0223451794`, Địa chỉ `Quận 9, TPHCM`) được nạp trực tiếp vào cuối bảng dữ liệu, đồng thời hệ thống bật thông báo **"Thêm khách hàng thành công!"** và tự động làm trống các ô nhập liệu để chuẩn bị cho lượt nhập tiếp theo.
+* Câu hỏi nộp kèm - Lab 07
+
+1. SDI và MDI khác nhau như thế nào?
+
+SDI (Single Document Interface): Là giao diện đơn tài liệu. Mỗi cửa sổ (Form) hoạt động độc lập và riêng biệt trên hệ điều hành, không bị giới hạn trong không gian của bất kỳ Form nào khác.
+
+MDI (Multiple Document Interface): Là giao diện đa tài liệu. Giao diện này có một Form đóng vai trò làm cửa sổ cha (MDI Parent) chứa nhiều Form con (MDI Child) bên trong vùng không gian của nó. Các cửa sổ con không thể kéo hoặc di chuyển ra ngoài cửa sổ cha.
+
+2. Vì sao Form đăng nhập nên dùng ShowDialog()?
+Hàm ShowDialog() dùng để mở Form dưới dạng hộp thoại chặn (modal dialog). Khi FrmLogin mở bằng cách này, người dùng bắt buộc phải tương tác (đăng nhập hoặc hủy) và đóng Form đó lại thì mới có thể tiếp tục thao tác các phần khác của chương trình. Điều này giúp hệ thống tạm dừng luồng chạy (thường là tại Program.cs) để chờ kết quả trả về (ví dụ DialogResult.OK) trước khi quyết định có tiếp tục mở FrmMain hay không.
+
+3. Trong bài lab này, dữ liệu user được truyền từ FrmLogin sang FrmMain bằng cách nào?
+Để truyền tên người dùng và vai trò hiển thị trên FrmMain, có hai cách tối ưu nhất trong C# WinForms:
+
+Truyền qua Constructor: Khai báo hàm tạo của FrmMain nhận các tham số tương ứng (ví dụ: public FrmMain(string username, string role)). Khi FrmLogin xác thực thành công, ta truyền trực tiếp dữ liệu vào khi khởi tạo: new FrmMain(username, role).
+
+Truyền qua Property: Khai báo các thuộc tính public bên trong FrmMain (ví dụ: public string Username { get; set; }). Khi xác thực thành công, ta gán giá trị cho các thuộc tính này của đối tượng FrmMain trước khi gọi hàm hiển thị Form.
+
+4. Nếu người dùng bấm menu sản phẩm nhiều lần, chương trình xử lý như thế nào để không mở trùng Form?
+Chương trình cần kiểm tra danh sách các Form con đang hiện hữu bên trong FrmMain:
+
+Duyệt qua danh sách các Form con hiện tại thông qua thuộc tính this.MdiChildren của FrmMain.
+
+Kiểm tra xem có Form nào thuộc kiểu FrmProduct hay không.
+
+Nếu có (Form đã được mở), ta gọi hàm Activate() để đưa Form đó nổi lên trên cùng (focus) thay vì tạo mới.
+
+Nếu kiểm tra hết mà chưa thấy, ta mới tiến hành tạo mới (new FrmProduct()), gán MdiParent = this và gọi hàm Show().
+
+5. Khi nào nên dùng constructor, khi nào nên dùng property để truyền dữ liệu giữa các Form?
+
+Nên dùng Constructor: Khi dữ liệu truyền vào là dữ liệu bắt buộc phải có để Form khởi tạo và thiết lập giao diện ngay từ đầu. Ví dụ: FrmMain bắt buộc phải có thông tin phân quyền (vai trò Admin hoặc User) ngay khi mở để ẩn/hiện các Menu tương ứng.
+
+Nên dùng Property: Khi dữ liệu mang tính tùy chọn, có thể gán hoặc thay đổi sau khi Form đã khởi tạo, hoặc khi Form cha cần lấy lại kết quả từ Form con (Form con xử lý, lưu kết quả vào Property, sau đó Form cha đọc lại 
